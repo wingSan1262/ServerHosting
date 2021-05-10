@@ -1,0 +1,6 @@
+
+# HTID:16479860: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:16479860:
+php_flag log_errors on
+php_value error_log /storage/ssd3/315/15909315/public_html/PHP_errors.log
